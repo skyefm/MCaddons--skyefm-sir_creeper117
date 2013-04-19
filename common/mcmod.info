@@ -1,0 +1,21 @@
+[
+{
+  "modid": "MAOver",
+  "name": "McAddon",
+  "description": "The Offical McAddon Mod"Overhall Your World Today" ",
+  "version": "0.0.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "SirGamer11790",
+    "Skyefm"
+  ],
+  "credits": "By SirGamer11790 And Skyefm An Overhall Mod",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
